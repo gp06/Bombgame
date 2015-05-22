@@ -15,6 +15,7 @@ public class Main
 		name = sc.nextLine();
 		Character one = new Character(name,1,1);
 		System.out.println("Battle start!");
+		Map map = new Map();
 		while(life==1)
 		{
 			System.out.print(""+Character.name);

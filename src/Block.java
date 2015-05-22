@@ -1,5 +1,5 @@
 
-public class Block 
+public abstract class Block 
 {
 	private int Defence;
 		

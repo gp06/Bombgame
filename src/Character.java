@@ -76,6 +76,10 @@ public class Character
 			}
 		}
 	}
+	public static void choosephase()
+	{
+		
+	}
 	
 	public static int getSpotx() {
 		return Spotx;
